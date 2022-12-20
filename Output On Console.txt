@@ -1,0 +1,186 @@
+============================================= WELCOME TO JAVA QUIZ ==========================================
+
+
+<<<<<<<<<<<<<<<<<<<< Rules For Java Quiz >>>>>>>>>>>>>>>>>>>>
+
+1. First enter your name.
+2. There are total 10 questions in this quiz session
+3. Each question will have 4 options.
+4. You have to choose the correct option out of them.
+5. Each question carries 1 mark.
+6. There is no negative marking in it.
+7. Incorrect answer you will get 0 number.
+8. When you solve all 10 questions, at the end you will be shown your quiz score along with your correct and incorrect answers.
+Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+Enter Username
+Ram
+
+
+==================================== Quiz Started ====================================
+
+-------------------------------------------------------------------------------------------------------
+Question 1 : which of the following does the class string belong to ?
+1.java.lang 
+2.java.awt
+3.java.applet
+4.java.String
+
+----------------------------------------------------------------------------------------------------------
+Enter Correct Answer
+1
+Correct Answer
+
+-------------------------------------------------------------------------------------------------------
+Question 2 : Which symbol is used to contain the values of automatically initialized arrays?
+1.Brackets
+2.Braces 
+3.Parentheses
+4.Comma
+
+----------------------------------------------------------------------------------------------------------
+Enter Correct Answer
+2
+Correct Answer
+
+-------------------------------------------------------------------------------------------------------
+Question 3 : Which of the following is a marker interface?
+1.serializable 
+2.comparable
+3.cloneable
+4.none of the above
+
+----------------------------------------------------------------------------------------------------------
+Enter Correct Answer
+3
+Incorrect Answer!...Correct Answer is >>> 1
+
+-------------------------------------------------------------------------------------------------------
+Question 4 : Which of the following is not a keyword in java?
+1.static
+2.Boolean 
+3.void
+4.private
+
+----------------------------------------------------------------------------------------------------------
+Enter Correct Answer
+4
+Incorrect Answer!...Correct Answer is >>> 2
+
+-------------------------------------------------------------------------------------------------------
+Question 5 : Which of the below is not unchecked exceptions in java?
+1.RuntimeException
+2.ClassCastException
+3.NullPointerException
+4.IOException 
+
+----------------------------------------------------------------------------------------------------------
+Enter Correct Answer
+2
+Incorrect Answer!...Correct Answer is >>> 4
+
+-------------------------------------------------------------------------------------------------------
+Question 6 : Number of primitive data types in Java are?
+1.java.lang.Object 
+2.java.lang.String
+3.java.lang.util
+4.None
+
+----------------------------------------------------------------------------------------------------------
+Enter Correct Answer
+1
+Correct Answer
+
+-------------------------------------------------------------------------------------------------------
+Question 7 : What is the variables declared in a class for the use of all methods of the class called?
+1.Object
+2.Instance variable
+3.Reference variable
+4.None
+
+----------------------------------------------------------------------------------------------------------
+Enter Correct Answer
+2
+Correct Answer
+
+-------------------------------------------------------------------------------------------------------
+Question 8 : Which of the below is not built-in class loaders in java?
+1.Bootstrap Class Loader
+2.Extensions Class Loader
+3.Runtime Class Loader
+4.System Class Loader
+
+----------------------------------------------------------------------------------------------------------
+Enter Correct Answer
+3
+Correct Answer
+
+-------------------------------------------------------------------------------------------------------
+Question 9 : Which of the following is used to find and fix bugs in the program?
+1.JDK
+2.JDB
+3.JRE
+4.JVM
+
+----------------------------------------------------------------------------------------------------------
+Enter Correct Answer
+2
+Correct Answer
+
+-------------------------------------------------------------------------------------------------------
+Question 10 : Identify the modifier which cannot be used for constructor.
+1.public
+2.private
+3.static 
+4.protected 
+
+----------------------------------------------------------------------------------------------------------
+Enter Correct Answer
+3
+Correct Answer
+
+-------------------------------------------------------------------------------------------------------------
+Display the score out of 10 with remark & count correct & incorrect answers
+
+
+Score of Candidate >>> 7 Out of 10 
+Correct Answers > 7
+Incorrect Answers > 3
+Record is inserted >>> 1
+Grade : Class-B
+
+*************************************************************************************************************
+Display the list of userId, name with score into console
+
+
+User Id > 1
+User Name > Huzefa
+User Score > 8
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Display the list of userId, name with score into console
+
+
+User Id > 2
+User Name > Siddiqui
+User Score > 7
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Display the list of userId, name with score into console
+
+
+User Id > 3
+User Name > Ram
+User Score > 7
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Display the list of userId, name with score into console
+
+
+User Id > 4
+User Name > Ram
+User Score > 7
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Enter User Id
+4
+To retrieve the particlar score using userId
+
+
+User Name > Ram
+User Score > 7

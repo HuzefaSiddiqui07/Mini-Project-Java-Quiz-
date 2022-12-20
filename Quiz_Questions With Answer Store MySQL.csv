@@ -1,0 +1,11 @@
+question,option_1,option_2,option_3,option_4,answer
+"Identify the modifier which cannot be used for constructor.",public,private,"static ","protected ",3
+"Number of primitive data types in Java are?","java.lang.Object ",java.lang.String,java.lang.util,None,1
+"What is the variables declared in a class for the use of all methods of the class called?",Object,"Instance variable","Reference variable",None,2
+"Which of the below is not built-in class loaders in java?","Bootstrap Class Loader","Extensions Class Loader","Runtime Class Loader","System Class Loader",3
+"Which of the below is not unchecked exceptions in java?",RuntimeException,ClassCastException,NullPointerException,"IOException ",4
+"which of the following does the class string belong to ?","java.lang ",java.awt,java.applet,java.String,1
+"Which of the following is a marker interface?","serializable ",comparable,cloneable,"none of the above",1
+"Which of the following is not a keyword in java?",static,"Boolean ",void,private,2
+"Which of the following is used to find and fix bugs in the program?",JDK,JDB,JRE,JVM,2
+"Which symbol is used to contain the values of automatically initialized arrays?",Brackets,"Braces ",Parentheses,Comma,2

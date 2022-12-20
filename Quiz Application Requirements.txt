@@ -1,0 +1,21 @@
+Project Name : Quiz
+
+Technology : Core Java, JDBC & MySQL.
+
+Project Requirement :
+
+• Store the 10 multiple choice questions related to java into database with correct answer.
+• Out of these, user should able to presented random questions.
+• One question has four options only.
+• User will choose the answers.
+• Also ability to store the multiple student score into database.
+• System will display the result- it means what is the score out of 10.
+• Also display the marks as below :
+
+   Class A- 8-10
+   Class B- 6-8
+   Class C- 5
+   Class D- <5 then its fail.
+
+• Display the list of student’s id, name with score into console as sorting order.
+• To get the particular record by using student id only. If someone wants to retrieve theirs score from database.

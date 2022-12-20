@@ -1,0 +1,13 @@
+============================================= WELCOME TO JAVA QUIZ ==========================================
+
+
+<<<<<<<<<<<<<<<<<<<< Rules For Java Quiz >>>>>>>>>>>>>>>>>>>>
+
+1. First enter your name.
+2. There are total 10 questions in this quiz session
+3. Each question will have 4 options.
+4. You have to choose the correct option out of them.
+5. Each question carries 1 mark.
+6. There is no negative marking in it.
+7. Incorrect answer you will get 0 number.
+8. When you solve all 10 questions, at the end you will be shown your quiz score along with your correct and incorrect answers.
